@@ -1,0 +1,13 @@
+{
+  "name": "example-aws-lambda-serverless",
+  "version": "1.0.0",
+  "description": "Probot & AWS Lambda example",
+  "main": "app.js",
+  "dependencies": {
+    "probot": "^11.0.5"
+  },
+  "repository": "https://github.com/probot/example-aws-lambda-serverless",
+  "keywords": [],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "license": "ISC"
+}
